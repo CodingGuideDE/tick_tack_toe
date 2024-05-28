@@ -1,0 +1,44 @@
+.innerdiv{
+    display: inline-block;
+    background-color: lightgray;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    height: 60px;
+    width: 40px;
+    text-shadow: 5px 5px 8px;
+    color: transparent;
+}
+#outdiv{
+    font-size: 50px;
+    border: 1px solid;
+    text-align: center;
+    width: 200px;
+    padding-top: 5px;
+    margin: auto;
+    background-color: gray;
+    user-select: none;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(21, 255, 0);
+    text-shadow: 5px 5px 8px rgb(238, 255, 2);
+}
+.innerdiv:hover{
+    background-color: rgb(190, 190, 190);
+    cursor: pointer;
+}
+#Einstellungen{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
